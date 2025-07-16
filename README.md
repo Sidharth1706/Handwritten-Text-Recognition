@@ -1,6 +1,6 @@
 # HTR and Line Segmentation Model Project
 
-**Developed by Sidharth Salugu (23R11A6641)** for **Cantilever Internship**.  
+**Developed by Sidharth Salugu (23R11A6641), Sadaf Firoz (23R11A67D6) and Samar Sunhith Kumar (23R11A6646)** for **Cantilever Internship**.  
 
 This application demonstrates the potential of **Handwritten Text Recognition (HTR)** to transform handwritten images into **digital text** for storage and modification.
 
